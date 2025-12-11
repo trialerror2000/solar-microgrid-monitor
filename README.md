@@ -11,6 +11,10 @@ This image shows the artificial demonstration of how the hardware works.
 
 Built this basic app on flutter which recieves data from the esp8266 and displays it to the app through a local wifi access point.
 
+https://github.com/user-attachments/assets/f81e9a36-7205-4196-9339-172b5e2dfb1c
+
+
+
 While this system successfully demonstrates local monitoring, the integration of Firebase for cloud syncing is currently pending. This feature was part of the original architectural design but was not implemented in v1.0 due to hackathon time limitations.
 
 I am actively learning Firebase integration patterns and plan to push an update soon that will enable Global Remote Access, making this a truly "smart" IoT solution.
